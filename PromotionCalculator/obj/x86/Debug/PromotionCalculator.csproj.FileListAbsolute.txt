@@ -1,0 +1,5 @@
+c:\users\naveen\documents\visual studio 2010\Projects\PromotionCalculator\PromotionCalculator\bin\Debug\PromotionCalculator.exe
+c:\users\naveen\documents\visual studio 2010\Projects\PromotionCalculator\PromotionCalculator\bin\Debug\PromotionCalculator.pdb
+c:\users\naveen\documents\visual studio 2010\Projects\PromotionCalculator\PromotionCalculator\obj\x86\Debug\PromotionCalculator.exe
+c:\users\naveen\documents\visual studio 2010\Projects\PromotionCalculator\PromotionCalculator\obj\x86\Debug\PromotionCalculator.pdb
+c:\Users\Naveen\Documents\Visual Studio 2010\Projects\PromotionCalculator\PromotionCalculator\obj\x86\Debug\PromotionCalculator.csprojResolveAssemblyReference.cache
